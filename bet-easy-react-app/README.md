@@ -37,6 +37,7 @@ Event Name, Event Venue, Time the event starts, iconography (see https://s3-ap-s
 * Code Split 
 * Accessibility
 * Cross Browser & Responsiveness
+* API call fetch only 5 items but if backend supports more then 5 items needs to be restricted at frontend
 * Best Practices for Production readiness
 * * https://create-react-app.dev/docs/production-build/
 * * https://reactjs.org/docs/optimizing-performance.html

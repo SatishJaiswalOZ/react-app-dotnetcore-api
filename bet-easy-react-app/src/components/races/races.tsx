@@ -1,6 +1,6 @@
 import React from "react";
 import AppContext from "../../context/app-context";
-import "./races.css";
+import "./races.scss";
 
 class Races extends React.Component {
   selectIcon(type: number) {

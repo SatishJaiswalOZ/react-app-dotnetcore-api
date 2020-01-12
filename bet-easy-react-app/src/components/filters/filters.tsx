@@ -1,6 +1,6 @@
 import React from "react";
 import AppContext from "../../context/app-context";
-import "./filters.css";
+import "./filters.scss";
 
 class Filters extends React.Component {
   private textInput: React.RefObject<HTMLButtonElement>;
